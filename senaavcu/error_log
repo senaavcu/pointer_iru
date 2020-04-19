@@ -1,0 +1,2 @@
+[16-Apr-2020 00:13:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xnpointe/public_html/senaavcu/baglan.php on line 4
+[16-Apr-2020 00:13:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xnpointe/public_html/senaavcu/baglan.php on line 4
